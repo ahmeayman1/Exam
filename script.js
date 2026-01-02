@@ -205,8 +205,8 @@ const questions = [
     "Staff needs and availability",
     "Budget constraints"
   ],
-  a: 3
-},
+  a: 2
+}
 {
   type: "mcq",
   q: "The role of control is:",
